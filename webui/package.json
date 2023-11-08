@@ -20,7 +20,7 @@
     "svelte-preprocess": "^5.0.0"
   },
   "dependencies": {
-    "autoprefixer": "^10.2.5",
+    "autoprefixer": "^10.4.16",
     "page": "^1.11.6",
     "postcss": "^8.2.8",
     "svelte-click-outside": "^1.0.0",
