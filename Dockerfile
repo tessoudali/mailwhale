@@ -23,7 +23,7 @@ RUN yarn && \
 # When running the application using `docker run`, you can pass environment variables
 # to override config values using `-e` syntax.
 
-FROM alpine
+FROM alpine:3.23.3
 WORKDIR /app
 
 ADD config.yml .
